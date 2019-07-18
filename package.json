@@ -1,0 +1,17 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompage": "https://hesand.github.io/blog",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
