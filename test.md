@@ -15,7 +15,7 @@ ajskld jasd lasjd lak
 
 <hr>
 
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>  
+<p>I <strong>love</strong> nerding out about creative coding, blblblblbl so don't hesitate to reach out!</p>  
 
 | Column1 | This is a long column name | Column3 |  |
 |-:|--|:-:|:-|
